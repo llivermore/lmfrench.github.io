@@ -2,7 +2,7 @@ theme: pmarsceill/just-the-docs
 
 Title: Test
 description: Test Jekyll theme for documentation
-baseurl: "lmfrench/" # the subpath of your site, e.g. /blog
+baseurl: "/lmfrench" # the subpath of your site, e.g. /blog
 url: "lmfrench.github.io"
 
 # Enable or disable the site search
